@@ -9,6 +9,13 @@ decisions around customer behaviour, retention, and experience.
 
 ## Projects
 
+### ☀️ [Morning Briefing Agent](https://github.com/prishitanahata1008-gif/Morning-Briefing-Agent)
+A personal project exploring the practical applications of AI agents in 
+everyday life. Personal AI agent built with Python and the Gemini API. Runs every 
+morning to pull weather, news, Google Calendar events, tasks and 
+currency rates — generates a personalised daily briefing and delivers 
+it via email and a hosted webpage.
+
 ### 🧠 [Aspect-Based Sentiment Analysis of Fashion Reviews](https://github.com/prishitanahata1008-gif/NLP-sentiment-analysis)
 NLP project analysing customer reviews to identify which product 
 attributes: fit, comfort, fabric, sizing trigger the strongest 
@@ -21,12 +28,6 @@ End-to-end ML pipeline predicting e-commerce customer churn using
 behavioural and demographic data. Compared Logistic Regression, 
 Random Forest and Decision Tree models, Logistic Regression selected 
 as final model with a cross-validated F1-score of 0.917.
-
-### ☀️ [Morning Briefing Agent](https://github.com/prishitanahata1008-gif/Morning-Briefing-Agent)
-Personal AI agent built with Python and the Gemini API. Runs every 
-morning to pull weather, news, Google Calendar events, tasks and 
-currency rates — generates a personalised daily briefing and delivers 
-it via email and a hosted webpage.
 
 ### 🚒 [London Fire Brigade Animal Rescue Analysis](https://github.com/prishitanahata1008-gif/LFB-Animal-Rescue-Analysis)
 Analysed 12,800+ real animal rescue incidents from the London Datastore 
