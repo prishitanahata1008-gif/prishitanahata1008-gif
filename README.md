@@ -9,7 +9,7 @@ decisions around customer behaviour, retention, and experience.
 
 ## Projects
 
-### 🧠 Aspect-Based Sentiment Analysis of Fashion Reviews
+### 🧠 [Aspect-Based Sentiment Analysis of Fashion Reviews](https://github.com/prishitanahata1008-gif/predictive-analytics-churn)
 NLP project analysing customer reviews to identify which product 
 attributes: fit, comfort, fabric, sizing trigger the strongest 
 emotional reactions, with a focus on Gen Z vs older consumers. 
