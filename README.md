@@ -28,6 +28,11 @@ morning to pull weather, news, Google Calendar events, tasks and
 currency rates — generates a personalised daily briefing and delivers 
 it via email and a hosted webpage.
 
+### 🚒 [London Fire Brigade Animal Rescue Analysis](https://github.com/prishitanahata1008-gif/LFB-Animal-Rescue-Analysis)
+Analysed 12,800+ real animal rescue incidents from the London Datastore 
+to identify trends and predict incident costs. Compared Linear Regression, 
+Random Forest, and Decision Tree models.
+
 ## Skills
 `Python` `R` `scikit-learn` `NLTK` `NLP` `Machine Learning` 
 `Predictive Modelling` `Google Cloud` `Gemini API` `Git`
