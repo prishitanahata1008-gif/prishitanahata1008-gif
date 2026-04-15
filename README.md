@@ -16,7 +16,7 @@ morning to pull weather, news, Google Calendar events, tasks and
 currency rates — generates a personalised daily briefing and delivers 
 it via email and a hosted webpage.
 
-### 🧠 [Aspect-Based Sentiment Analysis of Fashion Reviews](https://github.com/prishitanahata1008-gif/NLP-sentiment-analysis)
+### 🧠 [NLP Pipeline: Aspect-Based Sentiment Analysis of Customer Reviews](https://github.com/prishitanahata1008-gif/NLP-sentiment-analysis)
 NLP project analysing customer reviews to identify which product 
 attributes: fit, comfort, fabric, sizing trigger the strongest 
 emotional reactions, with a focus on Gen Z vs older consumers. 
